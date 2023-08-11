@@ -1,0 +1,3 @@
+Enter card number _________
+Enter CVC ___________
+__________ (checck out code)
